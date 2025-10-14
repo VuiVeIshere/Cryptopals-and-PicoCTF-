@@ -1,0 +1,1 @@
+Đề bài yêu cầu chuyển chuỗi từ hex sang base64 nên chỉ cần chuyển string-> hex -> bytes -> base64
