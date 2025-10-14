@@ -1,1 +1,1 @@
-
+Đề yêu cầu xor đoạn thơ với key "ICE", key sẽ được lặp lại cho đến khi bằng độ dài của đoạn thơ. Sau khi xor xong thì chuyển string -> bytes -> hex 
