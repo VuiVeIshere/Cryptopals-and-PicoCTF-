@@ -2,7 +2,7 @@ Phần gợi ý đề cho hết rồi nên chỉ cần làm theo ...
 <img width="1074" height="865" alt="image" src="https://github.com/user-attachments/assets/76bdca9f-9ed1-48ac-9c3e-55d8d821cce9" />
 
 Key: "Terminator X: Bring the noise"
-
+Ans:   
 I'm back and I'm ringin' the bell
 A rockin' on the mike while the fly girls yell
 In ecstasy in the back of me
@@ -334,4 +334,5 @@ My posse's to the side yellin', Go Vanilla Go!
 Smooth 'cause that's the way I will be
 
 And if you don't
+
 
