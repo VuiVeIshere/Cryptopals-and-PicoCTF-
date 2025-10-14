@@ -1,1 +1,1 @@
-
+Đề cho 2 đoạn hex, yêu cầu xor lại với nhau. Phép xor (^) trong python chỉ dùng cho số nguyên nên chuyển 2 chuỗi hex thành số nguyên trước, sau đó dùng phép xor và chuyển ngược lại thành hex
