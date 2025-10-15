@@ -1,4 +1,6 @@
 Đề cho key và cipher text base64 -> decode base64 -> decrypt AES.MODE_ECB -> unpad ( nếu có ) 
+<img width="1290" height="521" alt="image" src="https://github.com/user-attachments/assets/fffd8ef0-15ab-4a86-9d1f-34fb35c5bc6c" />
+
 ANS:
 I'm back and I'm ringin' the bell 
 A rockin' on the mike while the fly girls yell
@@ -78,4 +80,5 @@ Play that funky music Come on, Come on, let me hear
 Play that funky music white boy you say it, say it
 Play that funky music A little louder now
 Play that funky music, white boy Come on, Come on, Come on
+
 Play that funky music
